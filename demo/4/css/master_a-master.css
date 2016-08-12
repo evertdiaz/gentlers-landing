@@ -1,0 +1,332 @@
+#u1596.PamphletThumbSelected,#u1613.PamphletThumbSelected,#u1552.PamphletThumbSelected,#u1578.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u1542
+{
+	border-style: solid;
+	border-color: #FD419B;
+	background-color: #7F7F7F;
+	background-color: rgba(0,0,0,0.5);
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: fixed;
+	border-width: 0px 0px 1px;
+	-pie-background: rgba(0,0,0,0.5);
+}
+
+.js #u1542.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u1543
+{
+	position: fixed;
+	background: transparent url("../images/logo2.png") no-repeat center center;
+}
+
+#menuu374
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u404
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u407-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u376
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u378-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u399
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u402-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u383
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u385-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u392
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u394-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1333
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1335-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1340
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1342-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u403,#u375,#u396,#u382,#u389,#u1330,#u1337,#u1344
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1345
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1348-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u404.MuseMenuActive #u407-4 p,#u376.MuseMenuActive #u378-4 p,#u399.MuseMenuActive #u402-4 p,#u383.MuseMenuActive #u385-4 p,#u392.MuseMenuActive #u394-4 p,#u1333.MuseMenuActive #u1335-4 p,#u1340.MuseMenuActive #u1342-4 p,#u1345.MuseMenuActive #u1348-4 p
+{
+	color: #FD419B;
+	visibility: inherit;
+	font-weight: normal;
+}
+
+#u1197,#u1323,#u1327
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	line-height: 17px;
+	position: fixed;
+}
+
+#u1303
+{
+	background-color: #000000;
+}
+
+#u1477
+{
+	position: relative;
+	background: transparent url("../images/logo2.png") no-repeat center center;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1556,#u1570,#u1581,#u1598
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u1558,#u1575,#u1583,#u1603
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FD419B;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	position: relative;
+}
+
+#u1557,#u1560,#u1574,#u1571,#u1582,#u1585,#u1602,#u1599
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1561,#u1572,#u1586,#u1600
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	position: relative;
+}
+
+#u1552,#u1578,#u1596,#u1613
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1552:hover,#u1578:hover,#u1596:hover,#u1613:hover
+{
+	border-color: #999999;
+}
+
+#u1553,#u1579,#u1595,#u1612
+{
+	position: absolute;
+}
+
+#u1650-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 12px;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1966
+{
+	background-color: #222222;
+}
+
+#u1303_align_to_page,#pamphletu1546,#u1551,#pamphletu1563,#u1577,#pamphletu1580,#u1594,#pamphletu1597,#u1611,#u1966_align_to_page
+{
+	position: relative;
+}
+
+#u1304-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 12px;
+	text-align: center;
+	color: #666666;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+

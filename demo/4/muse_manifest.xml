@@ -1,0 +1,119 @@
+<manifest alg="2" build="44" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1441888266681">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="4246832743" ref="index"/>
+    <file name="index.css" crc="4228546803" ref="index"/>
+    <file name="iefonts_index.css" crc="4073816321" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="479751881" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3930024250" ref="phone>index:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="102406591" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4151298246" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="332337308" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="3814272331" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="59041389" ref="phone>index:tablet>index:index"/>
+    <file name="form-u3042.php" crc="4131617595" ref="phone>index"/>
+    <file name="form-u3101.php" crc="3977927644" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="form-u2271.php" crc="4131617595" ref="tablet>index"/>
+    <file name="form-u2330.php" crc="476438101" ref="tablet>index"/>
+    <file name="museredirect.js" crc="172797823" ref="index"/>
+    <file name="form-u1041.php" crc="61145545" ref="index"/>
+    <file name="form-u1275.php" crc="529724402" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="413298325" ref="phone>index"/>
+    <file name="homeslide.jpg" crc="4104018599" ref="phone>index:tablet>index:index"/>
+    <file name="iphone download.png" crc="2396388" ref="phone>index:tablet>index:index"/>
+    <file name="android download.png" crc="4267962094" ref="phone>index:tablet>index:index"/>
+    <file name="logo2.png" crc="3969753224" ref="phone>index:tablet>index:index"/>
+    <file name="features-u2736-fr.png" crc="6961013" ref="phone>index"/>
+    <file name="features_1-u2819-fr.jpg" crc="221891995" ref="phone>index:tablet>index"/>
+    <file name="features_2-u2749-fr.jpg" crc="221891995" ref="phone>index:tablet>index"/>
+    <file name="features_3-u2821-fr.jpg" crc="221891995" ref="phone>index:tablet>index"/>
+    <file name="features_4-u2823-fr.jpg" crc="221891995" ref="phone>index:tablet>index"/>
+    <file name="review_bg.jpg" crc="4104018599" ref="phone>index:tablet>index:index"/>
+    <file name="review_1-u2882-fr.jpg" crc="409110078" ref="phone>index"/>
+    <file name="review_2-u2848-fr.jpg" crc="409110078" ref="phone>index"/>
+    <file name="review_3-u2864-fr.jpg" crc="409110078" ref="phone>index"/>
+    <file name="about_img-u2895-fr.png" crc="4280575334" ref="phone>index"/>
+    <file name="fact_bg.jpg" crc="4104018599" ref="phone>index:tablet>index:index"/>
+    <file name="fact_img-u2948-fr.png" crc="3840678563" ref="phone>index"/>
+    <file name="screen_1.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_2.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_3.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_4.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_6.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_5.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_7.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="screen_8.jpg" crc="3952474706" ref="phone>index:tablet>index:index"/>
+    <file name="video_bg.jpg" crc="4104018599" ref="phone>index:tablet>index:index"/>
+    <file name="video_img.png" crc="331526534" ref="phone>index:tablet>index:index"/>
+    <file name="download_img-u3021-fr.png" crc="3868198551" ref="phone>index"/>
+    <file name="subscribe_bg.jpg" crc="4104018599" ref="phone>index:tablet>index:index"/>
+    <file name="u3050-17.png" crc="4022441268" ref="phone>index"/>
+    <file name="u3050-17-r.png" crc="263026488" ref="phone>index"/>
+    <file name="u3050-17-m.png" crc="263026488" ref="phone>index"/>
+    <file name="u3050-17-fs.png" crc="4022441268" ref="phone>index"/>
+    <file name="support_bg.jpg" crc="4104018599" ref="phone>index:tablet>index:index"/>
+    <file name="u3116-17.png" crc="328896912" ref="phone>index"/>
+    <file name="u3116-17-r.png" crc="4206819367" ref="phone>index"/>
+    <file name="u3116-17-m.png" crc="4206819367" ref="phone>index"/>
+    <file name="u3116-17-fs.png" crc="514846625" ref="phone>index"/>
+    <file name="phone homepage.png" crc="303115786" ref="tablet>index:index"/>
+    <file name="features-u1986-fr.png" crc="529841641" ref="tablet>index"/>
+    <file name="review_1.jpg" crc="3791002860" ref="tablet>index:index"/>
+    <file name="review_2.jpg" crc="3791002860" ref="tablet>index:index"/>
+    <file name="review_3.jpg" crc="3791002860" ref="tablet>index:index"/>
+    <file name="about_img.png" crc="292114035" ref="tablet>index:index"/>
+    <file name="fact_img.png" crc="4194814069" ref="tablet>index:index"/>
+    <file name="download_img.png" crc="3817369467" ref="tablet>index:index"/>
+    <file name="u2274-17.png" crc="3904322747" ref="tablet>index"/>
+    <file name="u2274-17-r.png" crc="4233531808" ref="tablet>index"/>
+    <file name="u2274-17-m.png" crc="4233531808" ref="tablet>index"/>
+    <file name="u2274-17-fs.png" crc="3904322747" ref="tablet>index"/>
+    <file name="u2337-17.png" crc="328896912" ref="tablet>index"/>
+    <file name="u2337-17-r.png" crc="4206819367" ref="tablet>index"/>
+    <file name="u2337-17-m.png" crc="4206819367" ref="tablet>index"/>
+    <file name="u2337-17-fs.png" crc="514846625" ref="tablet>index"/>
+    <file name="features_1.jpg" crc="3791002860" ref="index"/>
+    <file name="features_2.jpg" crc="3791002860" ref="index"/>
+    <file name="features.png" crc="168180751" ref="index"/>
+    <file name="features_3.jpg" crc="3791002860" ref="index"/>
+    <file name="features_4.jpg" crc="3791002860" ref="index"/>
+    <file name="u1057-17.png" crc="3904322747" ref="index"/>
+    <file name="u1057-17-r.png" crc="4233531808" ref="index"/>
+    <file name="u1057-17-m.png" crc="4233531808" ref="index"/>
+    <file name="u1057-17-fs.png" crc="3904322747" ref="index"/>
+    <file name="u1276-17.png" crc="328896912" ref="index"/>
+    <file name="u1276-17-r.png" crc="4206819367" ref="index"/>
+    <file name="u1276-17-m.png" crc="4206819367" ref="index"/>
+    <file name="u1276-17-fs.png" crc="514846625" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4241522420" ref="tablet>index"/>
+      <file name="index.css" crc="99443532" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="444898765" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3891035968" mt="1441875209015" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3785773307" ref="phone>index"/>
+      <file name="index.css" crc="4046700663" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4005780251" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="498522921" mt="1441875209019" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3850180620" mt="1441888214495" redirect="true"/>
+</manifest>
